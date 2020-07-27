@@ -1,0 +1,31 @@
+.blank_row_blue
+{
+    height: 30px !important; /* overwrites any other rules */
+    background-color: #92a8d1;
+}
+
+.blank_row_white
+{
+    height: 30px !important; /* overwrites any other rules */
+    background-color: #ffffff;
+}
+
+img
+{
+    max-width: 100%;
+    height: auto;
+}
+
+img_50
+{
+    max-width: 50%;
+    height: auto;
+}
+
+
+h5 {
+    text-align: center;
+  }
+
+
+body {background-color: #92a8d1;}
